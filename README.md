@@ -1,5 +1,5 @@
 
-# IRBM Tax Claculation Program
+# IRBM Tax Calculation Program
 
 The Inland Revenue Board of Malaysia (IRBM) is one of the main revenue collecting agencies of the Ministry of Finance. One of the services provided by IRBM is collecting an individual income
 tax that shall be charged for each year of assessment. Through digital initiatives introduced by the IRBM board, you as a software engineer have been
